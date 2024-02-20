@@ -1,4 +1,4 @@
-.PHONY: all qpa-s qpa-l gb-s gb-l hack-s hack-l
+.PHONY: all qpa-s qpa-l gb-s gb-l hack-s hack-l 
 
 all:
 	echo "qpa-s|qpa-l|gb-s|gb-l|hack-s|hack-l"
